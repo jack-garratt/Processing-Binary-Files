@@ -1,6 +1,6 @@
-# Python Intersecting Rectangles
+# Python Process Binary Files
 
-A Python system to compare the oposite coordinates in 2 rectangles and determine if they intersect.
+A Python system to read a txt file fill of 8 bit binary, convert to two's compliment and store min max values
 
 ## Features
 - Open & Read txt file full of 8 bit binary values
